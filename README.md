@@ -1,5 +1,5 @@
 ## Hi there 👋
- I am fullstack developer and now i am searching job in bengalure.
+ I am a fullstack developer and now i am searching job in bengalure.
  - 🌱 I’m currently learning ...
 <!--
 **Akashchhosur/Akashchhosur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
