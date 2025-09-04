@@ -1,4 +1,4 @@
-## Hi I AKASHHOSUR 👋
+## Hi I AM AKASHHOSUR 👋
  I am a fullstack developer. I have Completed Computer science Engineering with a CGPA OF 8.14 and my TECH  Skills are JAVA,SQL,HTML,CSS,JAVASCRIPT.
  - 🌱 I’m currently learning ...
 <!--
