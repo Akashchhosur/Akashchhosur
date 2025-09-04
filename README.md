@@ -1,6 +1,6 @@
 ## Hi I AM AKASHHOSUR 👋
  I am a fullstack developer. I have Completed Computer science Engineering with a CGPA OF 8.14 and my TECH  Skills are JAVA,SQL,HTML,CSS,JAVASCRIPT.
- - 🌱 I’m currently learning ...
+ - 🌱 I’m currently learning New Technologies...
 <!--
 **Akashchhosur/Akashchhosur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
